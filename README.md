@@ -1,7 +1,12 @@
 # Iskra — UX-аудит
 
-[Открыть публичный отчёт](https://davidishe.github.io/iskra-ux-audit/)
-· [Скачать HTML](https://davidishe.github.io/iskra-ux-audit/iskra-ux-audit-2026-10-30.html)
+[Открыть публичный отчёт](https://iskra-ux-review-20261030.mythickite23.chatgpt.site/)
+· [Скачать HTML](https://iskra-ux-review-20261030.mythickite23.chatgpt.site/iskra-ux-audit-2026-10-30.html)
+
+Страница доступна без входа. GitHub хранит полную публичную копию отчёта и
+оригиналы снимков. GitHub Pages также настроена на `main`, но первая сборка
+на момент проверки 30.10.2026 оставалась в очереди GitHub. Поэтому основной
+адрес для чтения размещён на Sites.
 
 Срез от 30 октября 2026 года: iOS 1.0 (16) и административный веб-интерфейс.
 14 замечаний: 4 P1, 6 P2, 4 P3. Для каждого — проблема, сценарий, влияние,

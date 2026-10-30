@@ -1,0 +1,152 @@
+{
+  "url": "https://iskra-ux-review-20261030.mythickite23.chatgpt.site/",
+  "publicAnonymousHTTP": 200,
+  "tlsDaysRemaining": 89,
+  "firstDeployment": "appgdep_6ae4d8b9bd088191b0edc67fc3ac6007",
+  "firstVersion": 1,
+  "firstSourceCommit": "4324ff752de17d2a3f2dee8c39dac64841c98373",
+  "sourceHtmlSHA256": "af2d0c4dc0c0d5186ba4712176a283f6626813b667f528d6cd9c2f0f6ed2daea",
+  "originalHtmlPrefixMatches": true,
+  "edgeAddition": "Cloudflare JavaScript detection script",
+  "browser": {
+    "passed": 15,
+    "checks": [
+      {
+        "name": "no document overflow at 320",
+        "passed": true
+      },
+      {
+        "name": "no document overflow at 390",
+        "passed": true
+      },
+      {
+        "name": "no document overflow at 430",
+        "passed": true
+      },
+      {
+        "name": "no document overflow at 1440",
+        "passed": true
+      },
+      {
+        "name": "14 embedded screenshots decode",
+        "passed": true
+      },
+      {
+        "name": "P1 filter shows four findings",
+        "passed": true
+      },
+      {
+        "name": "combined filters show one finding",
+        "passed": true
+      },
+      {
+        "name": "empty search result is explained",
+        "passed": true
+      },
+      {
+        "name": "reset restores all 14 findings",
+        "passed": true
+      },
+      {
+        "name": "screenshot opens in dialog",
+        "passed": true
+      },
+      {
+        "name": "Escape closes dialog and restores focus",
+        "passed": true
+      },
+      {
+        "name": "download has expected HTML filename",
+        "passed": true
+      },
+      {
+        "name": "no JavaScript or console errors",
+        "passed": true
+      },
+      {
+        "name": "no failed requests",
+        "passed": true
+      },
+      {
+        "name": "download opens offline with 14 decoded screenshots",
+        "passed": true
+      }
+    ],
+    "errors": [],
+    "failedRequests": []
+  },
+  "originalPngBrowserGET": [
+    {
+      "path": "/evidence/ux-blocked-profile.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-personal-unsaved.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-discovery.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-subscription-consent.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-filters-bottom.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-personal-top.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-filters-top.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/admin-users-mobile.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-tariff-one.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-chat-actions.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-compact-onboarding.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-signout-confirmation.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/ux-photos.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "path": "/evidence/admin-price-confirm.png",
+      "status": 200,
+      "type": "image/png"
+    }
+  ],
+  "siteErrorsLast5Minutes": 0,
+  "githubPages": "queued; public repository published"
+}
