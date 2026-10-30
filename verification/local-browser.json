@@ -1,0 +1,67 @@
+{
+  "passed": 15,
+  "checks": [
+    {
+      "name": "no document overflow at 320",
+      "passed": true
+    },
+    {
+      "name": "no document overflow at 390",
+      "passed": true
+    },
+    {
+      "name": "no document overflow at 430",
+      "passed": true
+    },
+    {
+      "name": "no document overflow at 1440",
+      "passed": true
+    },
+    {
+      "name": "14 embedded screenshots decode",
+      "passed": true
+    },
+    {
+      "name": "P1 filter shows four findings",
+      "passed": true
+    },
+    {
+      "name": "combined filters show one finding",
+      "passed": true
+    },
+    {
+      "name": "empty search result is explained",
+      "passed": true
+    },
+    {
+      "name": "reset restores all 14 findings",
+      "passed": true
+    },
+    {
+      "name": "screenshot opens in dialog",
+      "passed": true
+    },
+    {
+      "name": "Escape closes dialog and restores focus",
+      "passed": true
+    },
+    {
+      "name": "download has expected HTML filename",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript or console errors",
+      "passed": true
+    },
+    {
+      "name": "no failed requests",
+      "passed": true
+    },
+    {
+      "name": "download opens offline with 14 decoded screenshots",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "failedRequests": []
+}
