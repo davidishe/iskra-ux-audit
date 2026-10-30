@@ -148,5 +148,17 @@
     }
   ],
   "siteErrorsLast5Minutes": 0,
-  "githubPages": "queued; public repository published"
+  "githubPages": "queued; public repository published",
+  "finalDeployment": {
+    "version": 2,
+    "sourceCommit": "e6f8095788baef2ee1d19b6550dbc559b2d70acf",
+    "id": "appgdep_6ae4da3775908191a304f7c5d1543a9f",
+    "status": "succeeded",
+    "staticContentUnchanged": true,
+    "reloadFindings": 14,
+    "viewportWidth": 390,
+    "documentWidth": 390,
+    "browserErrors": 0,
+    "workerErrorsLast5Minutes": 0
+  }
 }
